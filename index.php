@@ -29,14 +29,14 @@
                       QuickLinks
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/studentlogin.php">Student Login</a></li>
-                      <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/facultylogin.php">Faculty login</a></li>
+                      <li><a class="dropdown-item" href="studentlogin.php">Student Login</a></li>
+                      <li><a class="dropdown-item" href="facultylogin.php">Faculty login</a></li>
                       <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/galary.php">Photo Galary</a></li>
+                      <li><a class="dropdown-item" href="galary.php">Photo Galary</a></li>
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutus.php" tabindex="-1" aria-disabled="true">About Us</a>
+                    <a class="nav-link" href="aboutus.php" tabindex="-1" aria-disabled="true">About Us</a>
                   </li>
                 </ul>
                 <ul class="list-unstyled" style="font-size: 20px;color: rgb(243, 247, 243);">
