@@ -18,26 +18,26 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="file:///C:/xampp/htdocs/college/index.html#">Home</a>
+                <a class="nav-link active" aria-current="page" href="file:///C:/xampp/htdocs/college/index.php#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/college/galary.html">Gallary</a>
+                <a class="nav-link" href="file:///C:/xampp/htdocs/college/galary.php">Gallary</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutdepartment.html">Department</a>
+                <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutdepartment.php">Department</a>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   QuickLinks
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/studentlogin.html">Student Login</a></li>
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/facultylogin.html">Faculty login</a></li>
+                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/studentlogin.php">Student Login</a></li>
+                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/facultylogin.php">Faculty login</a></li>
                   <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/galary.html">Photo Galary</a></li>
+                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/galary.php">Photo Galary</a></li>
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutus.html" tabindex="-1" aria-disabled="true">About Us</a>
+                <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutus.php" tabindex="-1" aria-disabled="true">About Us</a>
               </li>
             </ul>
            

@@ -17,26 +17,26 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="file:///C:/xampp/htdocs/college/index.html#">Home</a>
+                <a class="nav-link active" aria-current="page" href="file:///C:/xampp/htdocs/college/index.php#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/college/galary.html">Gallary</a>
+                <a class="nav-link" href="file:///C:/xampp/htdocs/college/galary.php">Gallary</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutdepartment.html">Department</a>
+                <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutdepartment.php">Department</a>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   QuickLinks
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/studentlogin.html">Student Login</a></li>
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/facultylogin.html">Faculty login</a></li>
+                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/studentlogin.php">Student Login</a></li>
+                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/facultylogin.php">Faculty login</a></li>
                   <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/galary.html">Photo Galary</a></li>
+                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/college/galary.php">Photo Galary</a></li>
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutus.html" tabindex="-1" aria-disabled="true">About Us</a>
+                <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutus.php" tabindex="-1" aria-disabled="true">About Us</a>
               </li>
             </ul>
      
@@ -47,10 +47,10 @@
         <div class="row">
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                 <div class="d-grid gap-2">
-                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/college/aboutdepartment.html" data-bs-toggle="tooltip" title="Some tooltip text!">About Depatment</a></button>
-                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/college/associationdept.html" data-bs-toggle="tooltip" title="Some tooltip text!">Association</button>
-                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/college/activitiesdept.html" data-bs-toggle="tooltip" title="Some tooltip text!">Activities and Events</a></button>
-                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/college/placementsdept.html" data-bs-toggle="tooltip" title="Some tooltip text!">Placements</a></button>
+                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/college/aboutdepartment.php" data-bs-toggle="tooltip" title="Some tooltip text!">About Depatment</a></button>
+                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/college/associationdept.php" data-bs-toggle="tooltip" title="Some tooltip text!">Association</button>
+                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/college/activitiesdept.php" data-bs-toggle="tooltip" title="Some tooltip text!">Activities and Events</a></button>
+                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/college/placementsdept.php" data-bs-toggle="tooltip" title="Some tooltip text!">Placements</a></button>
                   </div>
             </div>
             <div class="col col-12 col-sm-8 col-md-8 col-lg-8 col-xl-8 col-xxl-8">
