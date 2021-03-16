@@ -37,7 +37,7 @@
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutus.html" tabindex="-1" aria-disabled="true">About Us</a>
+                <a class="nav-link" href="file:///C:/xampp/htdocs/college/aboutus.php" tabindex="-1" aria-disabled="true">About Us</a>
               </li>
             </ul>
            
